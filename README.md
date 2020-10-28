@@ -1,4 +1,4 @@
-# express-typescript-setup
+# Express TypeScript Setup
 Simple typescript setup for expressjs
 
 ### Development Server
