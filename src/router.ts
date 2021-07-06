@@ -7,7 +7,7 @@ router.get('', (request, response) => {
 });	
 
 router.get('/:name', (request, response) => {
-	const name = request.params['name'];
+	const name: string = request.params['name'];
 
 	response.send(`Hello ${name}`);
 });
