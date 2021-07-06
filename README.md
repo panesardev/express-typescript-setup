@@ -11,7 +11,7 @@ npm run start:dev
 npm run start
 ```
 
-### Build application (ts to js)
+### Build application
 ```
 npm run build
 ```
